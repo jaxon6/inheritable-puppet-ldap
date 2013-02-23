@@ -1,0 +1,1 @@
+* * * * * root /usr/bin/test -x /usr/local/bin/ldap2puppetsign.sh && /usr/local/bin/ldap2puppetsign.sh 2>/dev/null

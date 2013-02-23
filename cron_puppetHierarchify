@@ -1,0 +1,1 @@
+* * * * * root /usr/bin/test -x /usr/local/bin/puppetHierarchify.pl && /usr/local/bin/puppetHierarchify.pl 2>/dev/null
